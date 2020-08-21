@@ -1,0 +1,7 @@
+= Server's log
+
+- We created individual user for each of us
+- We added our user into the group sudo (adm ?)
+- we set up our ssh key exchanges to login via ssh keys
+- we disabled root access
+- we set up a firewall
